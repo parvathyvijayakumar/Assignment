@@ -1,0 +1,1 @@
+This is the first entry to conflict from feature branch
